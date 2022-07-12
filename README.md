@@ -1,2 +1,2 @@
-# instagram-dio
+# Instagram DIO
 Landing page Instagram
